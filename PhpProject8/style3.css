@@ -1,0 +1,50 @@
+.topmenu {
+    position:fixed;
+    left:4px;
+    top:3em;
+    width:145px
+    background-color:blue;
+    padding-left:1.5em;
+}
+#sidemenu {
+     position:fixed;
+     vertical-align: top;
+     background-color:grey;
+     height:3em;
+     width:100%;
+     z-index: 100;
+     left:0;
+     top:0;
+    
+}
+#sidemenu{
+    background-color:grey;
+}
+#sidemenu ul
+{
+    list-style: none;
+}
+#sidemenu ul{
+    margin:o;
+    padding:0;
+}
+#sidemenu ul li{
+    background-color:grey;
+    border:1px solid white;
+    width:120px;
+    height:35px;
+    line-height:35px;
+    text-align:center;
+    float:left;
+    position:relative;
+}
+#sidemenu ul li a{
+  
+    text-decoration:none;
+ color:white;
+ display:block;
+}
+#sidemenu ul li a:hover{
+    background-color:blueviolet;
+  
+}

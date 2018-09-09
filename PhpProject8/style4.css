@@ -1,0 +1,26 @@
+element.style {
+}
+table {
+    background-color: #FFFFFF;
+    font: 11px/24px Verdana, Arial, Helvetica, sans-serif;
+    width: 100%;
+    border: none;
+    font-weight: bold;
+    border-left: 1px solid #000066;
+    border-right: 1px solid #000066;
+    border-collapse: collapse;
+    padding: 0px;
+}
+user agent stylesheet
+table {
+    display: table;
+    border-collapse: separate;
+    border-spacing: 2px;
+    border-color: grey;
+}
+body {
+    background-color: #FFFFFF;
+    font-family: Arial;
+    color: blue;
+    font-size: 10px;
+}
